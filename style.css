@@ -1,0 +1,20 @@
+.bg-img{
+    height: 650px;
+}
+.bg-img1{
+    background-image: url("https://anhdepfree.com/wp-content/uploads/2021/09/anh-vu-tru-moi-cuc-dep_36087.jpg");
+    color: #fff;
+    background-size: cover ;
+}
+.bg-img2{
+    background-image: url("./img/a1_0.png.jpg");
+    color: #fff;
+    background-size: cover ;
+}
+
+.bg-img3{
+    background-image: url("./img/hinh-1-17035594683252023043418.webp");
+    color: #fff;
+    background-size: cover ;
+}
+
